@@ -1,0 +1,11 @@
+(Security patch level: July 30, 2021)
+=======================================
+What's new:
+- Migration Server
+- Security improved
+- Fixed 'stuck' login on some users
+- Fixed lag when opening CyberNet_Auth
+- Added Point Blank V2 (Server 2)
+- Fixed HWID Expired Date information
+- Fixed Minor Bug
+======================================= 
