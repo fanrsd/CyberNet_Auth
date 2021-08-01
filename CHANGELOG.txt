@@ -1,9 +1,10 @@
 (Security patch level: July 2021)
 =======================================
 What's new:
+- Added Automatic Inject
+- Fixed Minor Bug
+- Fixed Auto Update
+- Fixed File Download
 - Migration Server
 - Security improved
-- Fixed Minor Bug
-- LSO Server 1 Done MT
-- Added Automatic Inject 
 ======================================= 
