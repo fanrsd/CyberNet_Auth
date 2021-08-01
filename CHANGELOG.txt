@@ -1,4 +1,4 @@
-(Security patch level: July 2021)
+(Security patch level: August 2021)
 =======================================
 What's new:
 - Added Automatic Inject
